@@ -10,5 +10,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Sapidly';
+  title = 'Welcome to Sapidly! The next gen AI based News Summarization App';
 }
